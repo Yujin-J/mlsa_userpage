@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Microsoft Learning Student Ambassadors 🎉",
+    title: "Likedin Profile",
     description:
-      "What I did as MLSA",
+      "Here is my linkedin profile.",
+    url: "https://www.linkedin.com/in/yujin-jung133/",
+  },
+  {
+    title: "Instagram profile",
+    description:
+      "Here is my private instagram profile",
     url: "https://www.instagram.com/mc_jjung?igsh=d2NnN3Rna2cwaHZh",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Microsoft Learning Student Ambassadors 🎉",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "What I did as MLSA",
+    url: "Empty!",
   },
   {
-    title: "My Resume Site",
+    title: "GitHub",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Here is my cute github page.",
+    url: "https://github.com/Yujin-J",
   },
 ];
 
