@@ -43,7 +43,7 @@ const projectList = [
     url: "https://www.instagram.com/mc_jjung?igsh=d2NnN3Rna2cwaHZh",
   },
   {
-    title: "Microsoft Learning Student Ambassadors 🎉",
+    title: "Microsoft Learning Student Ambassadors (now is empty)🎉",
     description:
       "What I did as MLSA",
     url: "Empty!",

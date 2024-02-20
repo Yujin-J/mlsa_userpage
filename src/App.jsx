@@ -26,12 +26,12 @@ import "./styles.css";
 const siteProps = {
   name: "Yujin Jung",
   title: "Junior Progrmmer, Gamer, Student",
-  email: "yujin.jung@",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  email: "Yujin.Jung@studentambassadors.com",
+  gitHub: "Yujin-J",
+  instagram: "mc_jjung",
+  linkedIn: "yujin-jung133",
   medium: "",
-  twitter: "microsoft",
+  twitter: "empty",
   youTube: "Code",
 };
 
