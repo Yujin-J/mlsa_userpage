@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "Hello! I'm Yujin Jung. You can call me \"Yujin\"! I'm studying Computer Science and Engineering at Kyungpook National University in Republic of Korea.";
+  "Hello! I'm Yujin Jung. You can call me \"Yujin\"!\nI'm studying Computer Science and Engineering at Kyungpook National University in Republic of Korea.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "Let's live nicely! I want to contribute to creating a fun world.";
+  "Let's live nicely!\nI want to contribute to creating a fun world.";
 
 const About = () => {
   return (
