@@ -4,7 +4,7 @@
  * Space for you to describe more about yourself.
  */
 
-import React from "Hello! I'm Yujin Jung. You can call me \"Yujin\"!";
+import React from "react";
 
 /**
  * About background image
@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm studying Computer Science and Engineering at Kyungpook National University in Republic of Korea.";
+  "Hello! I'm Yujin Jung. You can call me \"Yujin\"! I'm studying Computer Science and Engineering at Kyungpook National University in Republic of Korea.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
