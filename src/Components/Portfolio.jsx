@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Microsoft Learning Student Ambassadors 🎉",
     description:
-      "What I did as mlsa",
-    url: "https://naver.com",
+      "What I did as MLSA",
+    url: "https://www.instagram.com/mc_jjung?igsh=d2NnN3Rna2cwaHZh",
   },
   {
     title: "Web Development for Beginners",
