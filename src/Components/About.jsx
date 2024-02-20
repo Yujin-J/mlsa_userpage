@@ -4,7 +4,7 @@
  * Space for you to describe more about yourself.
  */
 
-import React from "react";
+import React from "Hello! ";
 
 /**
  * About background image
@@ -31,12 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "python",
+  "pytorch",
+  "C lang",
+  "JAVA",
+  "Unreal Engine 5",
+  "Azure(I'm learning!)",
 ];
 
 /**

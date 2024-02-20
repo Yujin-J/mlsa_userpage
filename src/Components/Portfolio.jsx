@@ -33,8 +33,8 @@ const projectList = [
   {
     title: "10 Things To Know About Azure Static Web Apps 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "What I did as mlsa",
+    url: "https://naver.com",
   },
   {
     title: "Web Development for Beginners",
